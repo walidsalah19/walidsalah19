@@ -1,6 +1,6 @@
 - 👋 Hi, I’m walid salah 
 - 👀 I’m interested in software engineer
-- 🌱 I’m currently learning android development
+- 🌱 I’m currently learning android development and Flutter
 - 💞️ I’m looking to collaborate on work  
 - 📫 How to reach me  walidsalah9585@gmail.com
 
