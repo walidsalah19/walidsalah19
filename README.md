@@ -44,6 +44,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/walidsalah19/walidsalah19/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/walidsalah19/walidsalah19/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
 
 ###
