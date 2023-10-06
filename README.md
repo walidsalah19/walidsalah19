@@ -46,6 +46,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/walidsalah19/walidsalah19/blob/main/.github/workflows/snake.svg" alt="Snake animation" />
+<img src="https://github.com/walidsalah19/walidsalah19/blob/main/.github/workflows/snake.svg" alt="Generate snake animation" />
 
 ###
